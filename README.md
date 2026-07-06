@@ -19,7 +19,7 @@ Chaque dossier correspond a un atelier independant avec son code source, sa conf
 ## Organisation du depot
 
 ```text
-BIG-DATA-BOUSSELHAM-MII-BDCC-ENSET-main/
+BIG-DATA-BDCC-ENSET/
 |-- TP 3 - SPARK SQL/
 |-- TP 4 - Analyse en temps quasi reel des mesures de capteurs avec Spark Structured Streaming et HDFS/
 |-- TP 5 - Traitement de flux avec Kafka Streams/
