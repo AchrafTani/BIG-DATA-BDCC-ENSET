@@ -1,5 +1,7 @@
 # Rapport de l'Exercice de Synthèse 21 : Pratique de HDFS
 
+**Realise par :** Achraf  
+**Encadre par :** Pr. Abdelmajid BOUSSELHAM 
 **Module :** Big Data - Atelier Hadoop HDFS  
 **Objectif :** Valider l'utilisation des principales commandes HDFS, notamment la création de répertoires, la gestion des fichiers, l'observation des blocs et le paramétrage de la réplication.
 
